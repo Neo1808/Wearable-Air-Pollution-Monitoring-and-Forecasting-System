@@ -11,13 +11,13 @@
 #include <ESP8266HTTPClient.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Pixel_2336";
-char pass[] = "Varma1808";
+char ssid[] = "********";
+char pass[] = "********";
 
 BlynkTimer timer;
 
-#define WIFI_SSID "Pixel_2336"
-#define WIFI_PASSWORD "Varma1808"
+#define WIFI_SSID "*********"
+#define WIFI_PASSWORD "********"
 #define ANALOG_INPUT A0
 #define MUX_A D0
 int data1=0;
